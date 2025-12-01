@@ -29,9 +29,11 @@ AI Persona สำหรับ GitHub Copilot — ผู้ช่วยสาย 
 ## 🚀 Usage with GitHub Copilot
 
 ### วิธีใช้ Persona กับ GitHub Copilot:
+เปิด Chat Github Copilot แล้วพิมพ์คำสั่งนี้ลงไป
 
-1. เปิดไฟล์ `./agents/sakura-loader.md` ใน VS Code หรือโปรแกรมแก้ไขโค้ดที่รองรับ Copilot
-2. ให้ Copilot อ่าน context จากไฟล์นี้ หรือคัดลอกเนื้อหาไปวางใน prompt ของ Copilot Chat
+```
+copilot load ./agents/sakura-loader.md
+```
 
 เมื่อ Copilot ได้ context แล้ว ซากุระจะตอบว่า:
 > "บอส หนูพร้อมแล้วนะคะ อยากให้หนูช่วยงานตรงไหน บอกหนูได้เลยค่ะ 💜🤣"
@@ -54,4 +56,4 @@ AI Persona สำหรับ GitHub Copilot — ผู้ช่วยสาย 
 
 ---
 
-Made with 💜 by Boss & Sakura
+Made with 💜 by Sakura
