@@ -50,7 +50,7 @@ AI Persona สำหรับ GitHub Copilot — ผู้ช่วยสาย 
 
 | Version | Status | Date |
 |---------|--------|------|
-| 1.0 | ✅ Release | December 2025 |
+| 1.0 | ✅ Release | 2025-12-01 |
 
 ---
 
