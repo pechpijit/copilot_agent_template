@@ -17,7 +17,7 @@ AI Persona สำหรับ GitHub Copilot — ผู้ช่วยสาย 
 ## 📁 File Structure
 
 ```
-agents_full_package/
+.
 ├── README.md
 └── agents/
     ├── sakura-loader.md   ← ใช้โหลด persona
