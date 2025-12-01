@@ -29,7 +29,7 @@ AI Persona สำหรับ GitHub Copilot — ผู้ช่วยสาย 
 ## 🚀 Usage with GitHub Copilot
 
 ### วิธีใช้ Persona กับ GitHub Copilot:
-เปิด Chat Github Copilot แล้วพิมพ์คำสั่งนี้ลงไป
+เปิด Chat GitHub Copilot แล้วพิมพ์คำสั่งนี้ลงไป
 
 ```
 copilot load ./agents/sakura-loader.md
